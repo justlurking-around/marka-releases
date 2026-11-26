@@ -7,11 +7,11 @@ local-first Windows assessment system for Philippine schools and review centers.
 repository contains no source code, build scripts, certificates, private keys,
 databases, or learner records.
 
-## Latest: 0.2.4
+## Latest: 0.2.5
 
-- Installer: `MarkaSetup-0.2.4.exe`
-- Size: 80,546,536 bytes (about 80.5 MB)
-- SHA-256: `ae62bafa35db22c881c3a6a7bc9f0a46986bab4bfa23d5ec8fcfeec6c47998bc`
+- Installer: `MarkaSetup-0.2.5.exe`
+- Size: 80,534,528 bytes (about 80.5 MB)
+- SHA-256: `d28fa16885e11516b34b55b297f4ddd83c977980443bb0de9a92b76c183e0257`
 
 Download from the **Releases** tab. The `manifest.json` file at the repository
 root is the update channel used by the desktop app.

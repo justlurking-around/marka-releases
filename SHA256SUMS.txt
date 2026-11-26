@@ -1,1 +1,1 @@
-ae62bafa35db22c881c3a6a7bc9f0a46986bab4bfa23d5ec8fcfeec6c47998bc  MarkaSetup-0.2.4.exe
+d28fa16885e11516b34b55b297f4ddd83c977980443bb0de9a92b76c183e0257  MarkaSetup-0.2.5.exe
