@@ -1,0 +1,7 @@
+{
+  "version": "0.2.8",
+  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.8/MarkaSetup-0.2.8.exe",
+  "sha256": "0e1a5e32f83abfc0bf4054d39c8980cadbb3c5bb528d1fe9ece0be442bf5a385",
+  "size": 80568728,
+  "notes": "Marka 0.2.8 - fixes the hidden-element style override on report cards and setup controls. Includes 0.2.7 school setup, all-subject records, branding, and one-click restore."
+}
