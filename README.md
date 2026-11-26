@@ -10,8 +10,8 @@ databases, or learner records.
 ## Latest: 0.2.4
 
 - Installer: `MarkaSetup-0.2.4.exe`
-- Size: 80,545,888 bytes (about 80.5 MB)
-- SHA-256: `3dd83210a8bc2f52c0f148ea2e4c2df4bd5b14a50fc59758c3f32c3954f7c428`
+- Size: 80,546,536 bytes (about 80.5 MB)
+- SHA-256: `ae62bafa35db22c881c3a6a7bc9f0a46986bab4bfa23d5ec8fcfeec6c47998bc`
 
 Download from the **Releases** tab. The `manifest.json` file at the repository
 root is the update channel used by the desktop app.
@@ -27,11 +27,12 @@ hash does not match, do not run the installer.
 
 ## Installer signature
 
-The installer is signed with the Marka development certificate (`CN=Marka Dev`).
-A Windows PC that does not trust that certificate may show an unknown-publisher
-or SmartScreen warning. The SHA-256 is the integrity check. School IT can trust
-the Marka certificate for managed devices; request the public `.cer` and
-deployment notes through the issue tracker at
+The installer is signed with the Marka private CA (`CN=Marka, O=Marka, C=PH`).
+A Windows PC that does not trust that CA may show an unknown-publisher or
+SmartScreen warning; it is not a publicly trusted certificate. The SHA-256 is
+the integrity check. School IT can deploy the public root and issuing
+certificates to managed devices; request them and the GPO/Intune notes through
+the issue tracker at
 https://github.com/justlurking-around/marka-releases/issues.
 
 ## License
