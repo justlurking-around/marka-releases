@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.5/MarkaSetup-0.2.5.exe",
-  "sha256": "246a44a64a90f742571ebd9adc7b901ad9474446b6c0dc6eef7328eab2c4839b",
-  "size": 80555312,
-  "notes": "Marka 0.2.5 - private-CA-signed installer (signed app embedded) and update channel."
+  "version": "0.2.6",
+  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.6/MarkaSetup-0.2.6.exe",
+  "sha256": "6efb377bb3f63f6c22357ba04874b3736ad5d75eb42f91daf697b9f4dcc26630",
+  "size": 80555080,
+  "notes": "Marka 0.2.6 - fixed installer with signed app; in-app documentation and support links, Store-aware update settings, current distribution hardening."
 }
