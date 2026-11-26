@@ -1,7 +1,7 @@
 {
   "version": "0.2.5",
   "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.5/MarkaSetup-0.2.5.exe",
-  "sha256": "d28fa16885e11516b34b55b297f4ddd83c977980443bb0de9a92b76c183e0257",
-  "size": 80534528,
-  "notes": "Marka 0.2.5 - private-CA-signed installer and update channel."
+  "sha256": "246a44a64a90f742571ebd9adc7b901ad9474446b6c0dc6eef7328eab2c4839b",
+  "size": 80555312,
+  "notes": "Marka 0.2.5 - private-CA-signed installer (signed app embedded) and update channel."
 }

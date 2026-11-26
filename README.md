@@ -10,8 +10,8 @@ databases, or learner records.
 ## Latest: 0.2.5
 
 - Installer: `MarkaSetup-0.2.5.exe`
-- Size: 80,534,528 bytes (about 80.5 MB)
-- SHA-256: `d28fa16885e11516b34b55b297f4ddd83c977980443bb0de9a92b76c183e0257`
+- Size: 80,555,312 bytes (about 80.5 MB)
+- SHA-256: `246a44a64a90f742571ebd9adc7b901ad9474446b6c0dc6eef7328eab2c4839b`
 
 Download from the **Releases** tab. The `manifest.json` file at the repository
 root is the update channel used by the desktop app.
