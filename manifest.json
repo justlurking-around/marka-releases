@@ -1,0 +1,6 @@
+{
+  "version": "0.2.3",
+  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.3/MarkaSetup-0.2.3.exe",
+  "sha256": "b885102801aa4d981778378314432e12adacdc933058992757963a7af06008c1",
+  "notes": "Marka 0.2.3 - hardened distribution build: no PDBs or XML docs, publish audit, single-instance guard, public update channel."
+}
