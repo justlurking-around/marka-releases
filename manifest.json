@@ -1,7 +1,7 @@
 {
-    "notes":  "Marka 0.3.2 - SF10 has its own sidebar section and follows the official DepEd permanent-record layout: learner information, eligibility for JHS enrolment, scholastic record, remedial classes, and registrar certification.",
-    "url":  "https://github.com/justlurking-around/marka-releases/releases/download/v0.3.2/MarkaSetup-0.3.2.exe",
-    "version":  "0.3.2",
-    "size":  80601864,
-    "sha256":  "ccbb3824cf4b5702f70d73ea74e3c50bbdef6286fe763e809cc9f23d34ba33fc"
+    "notes":  "Marka 0.3.3 - Live two-column SF9 preview in the app, logo upload from the report cards and SF10 views, SF5 promotion report, official SF10 registrar record, real-data validation tests, and a refreshed website with SF9/SF10 explanations and new screenshots.",
+    "url":  "https://github.com/justlurking-around/marka-releases/releases/download/v0.3.3/MarkaSetup-0.3.3.exe",
+    "version":  "0.3.3",
+    "size":  80601168,
+    "sha256":  "c0a88d79d0c1dbc5c1bdcce0408762381897c0bd1b2bab66a5bded9429e53d04"
 }
