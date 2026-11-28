@@ -1,7 +1,7 @@
 {
-    "notes":  "Marka 0.3.0 - SF10 permanent record, Summary of Grades, honor candidates, certificates, SF2 daily attendance, offline teacher remarks, CSV grade import, competency standards, custom print template, and LAN phone scanning.",
-    "url":  "https://github.com/justlurking-around/marka-releases/releases/download/v0.3.0/MarkaSetup-0.3.0.exe",
-    "version":  "0.3.0",
-    "size":  80590376,
-    "sha256":  "b47749019a7d36c09add56cc3c8c23d279c80658264ee140bc8ef5f0eb8b3ebc"
+    "notes":  "Marka 0.3.1 - SF9 and SF10 now print on the official two-column fold sheet (A4 landscape), with learner age/sex and term-aware teacher remarks.",
+    "url":  "https://github.com/justlurking-around/marka-releases/releases/download/v0.3.1/MarkaSetup-0.3.1.exe",
+    "version":  "0.3.1",
+    "size":  80597312,
+    "sha256":  "54b4c795469fabe13011a171b3247c92cf250d29989f1d89a7c8a3a3ead24e45"
 }
