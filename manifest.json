@@ -1,0 +1,7 @@
+{
+  "version": "0.2.9",
+  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.9/MarkaSetup-0.2.9.exe",
+  "sha256": "29d5a5fb2bbbb679b0b0973acd9117632a393de6d8a3f71fc7dc90f998de23ae",
+  "size": 80568032,
+  "notes": "Marka 0.2.9 - simplified app and website UI, fixed dashboard and mock context, removed redundant descriptions, refreshed screenshots, and accessibility polish."
+}
