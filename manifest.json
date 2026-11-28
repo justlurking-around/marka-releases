@@ -1,7 +1,7 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/justlurking-around/marka-releases/releases/download/v0.2.9/MarkaSetup-0.2.9.exe",
-  "sha256": "29d5a5fb2bbbb679b0b0973acd9117632a393de6d8a3f71fc7dc90f998de23ae",
-  "size": 80568032,
-  "notes": "Marka 0.2.9 - simplified app and website UI, fixed dashboard and mock context, removed redundant descriptions, refreshed screenshots, and accessibility polish."
+    "notes":  "Marka 0.3.0 - SF10 permanent record, Summary of Grades, honor candidates, certificates, SF2 daily attendance, offline teacher remarks, CSV grade import, competency standards, custom print template, and LAN phone scanning.",
+    "url":  "https://github.com/justlurking-around/marka-releases/releases/download/v0.3.0/MarkaSetup-0.3.0.exe",
+    "version":  "0.3.0",
+    "size":  80590376,
+    "sha256":  "b47749019a7d36c09add56cc3c8c23d279c80658264ee140bc8ef5f0eb8b3ebc"
 }
